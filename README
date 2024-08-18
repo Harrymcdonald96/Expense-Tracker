@@ -1,5 +1,12 @@
 # Expense Tracker Application
 
+## GIF Preview
+![Expense Tracker Giph](screenshots/giphy.mp4)
+
+## Demo Video
+[Watch the demo video](https://www.youtube.com/watch?v=GqISyq6MJ2k)
+
+
 ## Overview
 
 The Expense Tracker is a powerful tool designed to help users manage their personal finances by tracking daily expenses across various categories and currencies. It offers features such as currency conversion, expense categorization, and summarization of expenses over different periods.
@@ -10,6 +17,7 @@ The Expense Tracker is a powerful tool designed to help users manage their perso
 - **Expense Categorization**: Organize expenses into categories such as Food, Transport, and Entertainment.
 - **Dynamic Summaries**: View summarized data of expenses on a daily, weekly, or monthly basis.
 - **Persistence**: Expenses are saved and loaded from a local JSON file, ensuring data persistence across sessions.
+
 - **Data Validation**: Robust input validation to ensure data integrity.
 
 ## Key Functions
