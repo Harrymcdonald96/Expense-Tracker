@@ -1,10 +1,10 @@
 # Expense Tracker Application
 
-## Overview
+# Overview
 
 The Expense Tracker is a powerful tool designed to help users manage their personal finances by tracking daily expenses across various categories and currencies. It offers features such as currency conversion, expense categorization, and summarization of expenses over different periods.
 
-## Features
+# Features
 
 - **Currency Conversion**: Convert expenses between different currencies using real-time exchange rates.
 - **Expense Categorization**: Organize expenses into categories such as Food, Transport, and Entertainment.
@@ -12,7 +12,7 @@ The Expense Tracker is a powerful tool designed to help users manage their perso
 - **Persistence**: Expenses are saved and loaded from a local JSON file, ensuring data persistence across sessions.
 - **Data Validation**: Robust input validation to ensure data integrity.
 
-## Key Functions
+# Key Functions
 
 - `get_exchange_rate(from_currency, to_currency)`: Fetches the real-time exchange rate between two currencies from an external API.
 - `convert_currency(amount, from_currency, to_currency)`: Converts a specified amount from one currency to another.
@@ -28,14 +28,14 @@ The Expense Tracker is a powerful tool designed to help users manage their perso
 - `display_summary()`: Provides a menu to choose the period for which the spending summary is displayed.
 - `main_menu()`: Main menu of the application for navigating through the functionalities.
 
-## Program Flow
+# Program Flow
 
 - The program starts by loading any existing expenses from the JSON file.
 - The main menu offers options to log a new expense, view expense summaries, or exit the program.
 - When logging an expense, the user can specify the amount, currency, category, and whether to convert the amount to a different currency.
 - Summaries can be viewed based on the day, week, or month, and they display the total spent in each category and currency.
 
-## Running the Expense Tracker
+# Running the Expense Tracker
 
 To run the Expense Tracker, execute the following command from the terminal:
 `python path_to_your_script.py`
