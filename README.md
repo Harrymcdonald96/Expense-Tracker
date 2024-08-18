@@ -1,7 +1,7 @@
 # Expense Tracker Application
 
-## GIF Preview
-![Expense Tracker Giph](screenshots/giphy.mp4)
+## ScreenShot
+![Expense Tracker Screenshot](screenshots/screenshot.png)
 
 ## Demo Video
 [Watch the demo video](https://www.youtube.com/watch?v=GqISyq6MJ2k)
